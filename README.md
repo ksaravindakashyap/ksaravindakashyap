@@ -44,7 +44,15 @@ I’m a software engineer with a strong interest in building reliable, productio
 </p>
 
 ---
+### 🔥 Contribution activity
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+  ?username=ksaravindakashyap
+  &theme=tokyo-night
+  &hide_border=true" />
+</p>
+---
 ### 🚀 Selected projects
 
 | Project | Description |

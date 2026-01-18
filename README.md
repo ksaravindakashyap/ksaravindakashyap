@@ -9,7 +9,7 @@
   &color=58A6FF
   &center=true
   &vCenter=true
-  &width=650
+  &width=700
   &lines=Software+Engineer+%26+Systems+Builder;
   Applied+AI+%7C+Infrastructure+%7C+Research;
   Building+reliable+systems+that+scale" />
@@ -24,7 +24,7 @@
 ---
 
 ### 🧠 About me
-I’m a software engineer with a strong interest in building reliable, production-grade systems across infrastructure, applied AI, and backend engineering. I enjoy working on problems where system design, correctness, and real-world impact matter more than demos.
+I’m a software engineer who enjoys building reliable, production-grade systems across infrastructure, backend engineering, and applied AI. I’m particularly interested in problems where system design, correctness, and real-world impact matter more than demos.
 
 ---
 
@@ -44,14 +44,6 @@ I’m a software engineer with a strong interest in building reliable, productio
 </p>
 
 ---
-### 🔥 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph
-  ?username=ksaravindakashyap
-  &theme=tokyo-night
-  &hide_border=true" />
-</p>
 
 ### 🚀 Selected projects
 
@@ -85,6 +77,17 @@ I’m a software engineer with a strong interest in building reliable, productio
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ksaravindakashyap&style=flat&color=0e75b6" />
+</p>
+
+---
+
+### 🔥 Contribution activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph
+  ?username=ksaravindakashyap
+  &theme=tokyo-night
+  &hide_border=true" />
 </p>
 
 ---

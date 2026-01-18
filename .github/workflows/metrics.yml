@@ -17,5 +17,5 @@ jobs:
           filename: isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: full
           config_display: large

@@ -52,7 +52,7 @@ I’m a software engineer with a strong interest in building reliable, productio
   &theme=tokyo-night
   &hide_border=true" />
 </p>
----
+
 ### 🚀 Selected projects
 
 | Project | Description |

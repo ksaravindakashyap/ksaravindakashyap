@@ -1,7 +1,7 @@
 <h1 align="center">K S Aravinda Kashyap</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+GRA+%40+Virginia+Tech;Agentic+Systems+%7C+Agentic+Security;AI+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+GRA+%40+Virginia+Tech;Agentic+Systems_Security+%7C+AI+Researcher;" />
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence L
 
 
 ## Experience
-- **GRA — Virginia Tech (Security & Intelligence Lab)**: Agentic systems + agentic security research (secure tool-use, reliability, resilience).
-- **Associate Software Engineer — Shell**: Production backend + data platforms; reliability, automation, and operational robustness.
-- **Software Engineering Intern — ISRO**: Real-time telemetry dashboards and operational tooling for mission workflows.
-- **Research Experience — IIT Delhi**: Applied ML research and development.
+- **GRA - Virginia Tech (Security & Intelligence Lab)**: Agentic systems + agentic security research (secure tool-use, reliability, resilience).
+- **Associate Software Engineer - Shell**: Production backend + data platforms; reliability, automation, and operational robustness.
+- **Software Engineering Intern - ISRO**: Real-time telemetry dashboards and operational tooling for mission workflows.
+- **Research Experience - IIT Delhi**: Applied ML research and development.
 
 
 ## Tech stack
@@ -45,7 +45,7 @@ I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence L
 
 
 
-## Contributions (Option B — keep or remove)
+## Contributions
 <p align="center">
   <img src="https://raw.githubusercontent.com/ksaravindakashyap/ksaravindakashyap/main/github-metrics.svg" />
 </p>

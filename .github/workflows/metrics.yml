@@ -1,0 +1,19 @@
+# .github/workflows/metrics.yml
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ksaravindakashyap
+          template: classic
+          base: header, activity, repositories
+          config_timezone: UTC
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year

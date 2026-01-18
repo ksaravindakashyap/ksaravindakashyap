@@ -17,12 +17,12 @@
 ---
 
 ## About
-I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, focused on agentic systems and agentic security—especially how to make autonomous tool-using agents safe, reliable, and resilient to prompt-injection style threats. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at ISRO where I built real-time telemetry tooling for mission workflows. I’ve also worked on ML research at IIT Delhi and published at IEEE CSITSS. I care about building systems that are trustworthy in the real world: clear interfaces, measurable reliability, and engineering that “just works.”
+I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, focused on agentic systems and agentic security-especially how to make autonomous tool-using agents safe, reliable, and resilient to prompt-injection style threats. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at ISRO where I built real-time telemetry tooling for mission workflows. I’ve also worked on ML research at IIT Delhi and published at IEEE CSITSS. I care about building systems that are trustworthy in the real world: clear interfaces, measurable reliability, and engineering that “just works.”
 
 ---
 
 ## Experience
-- **Graduate Research Assistant — Virginia Tech (Security & Intelligence Lab)**: Agentic systems + agentic security research (secure tool-use, reliability, resilience).
+- **GRA — Virginia Tech (Security & Intelligence Lab)**: Agentic systems + agentic security research (secure tool-use, reliability, resilience).
 - **Associate Software Engineer — Shell**: Production backend + data platforms; reliability, automation, and operational robustness.
 - **Software Engineering Intern — ISRO**: Real-time telemetry dashboards and operational tooling for mission workflows.
 - **Research Experience — IIT Delhi**: Applied ML research and development.

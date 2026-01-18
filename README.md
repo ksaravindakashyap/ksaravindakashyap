@@ -45,20 +45,6 @@ I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence L
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
 </p>
 
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ksaravindakashyap&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksaravindakashyap&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 
 
 ---

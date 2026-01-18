@@ -1,7 +1,7 @@
 <h1 align="center">K S Aravinda Kashyap</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+GRA+%40+Virginia+Tech;Agentic+Systems+%7C+Agentic+Security;Building+reliable+systems+that+people+can+trust" />
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=780&lines=Software+Engineer+%7C+GRA+%40+Virginia+Tech;Agentic+Systems+%7C+Agentic+Security;AI+Researcher" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 
 ## About
-I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, focused on agentic systems and agentic security-especially how to make autonomous tool-using agents safe, reliable, and resilient to prompt-injection style threats. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at ISRO where I built real-time telemetry tooling for mission workflows. I’ve also worked on ML research at IIT Delhi and published at IEEE CSITSS. I care about building systems that are trustworthy in the real world: clear interfaces, measurable reliability, and engineering that “just works.”
+I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, focused on agentic systems and agentic security, especially how to make autonomous tool-using agents safe, reliable, and resilient to prompt-injection style threats. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at ISRO where I built real-time telemetry tooling for mission workflows. I’ve also worked on ML research at IIT Delhi and published at IEEE CSITSS. I care about building systems that are trustworthy in the real world: clear interfaces, measurable reliability, and engineering that “just works.”
 
 
 ## Experience
@@ -58,7 +58,8 @@ Option B notes:
 
 
 ## Beyond engineering
-Outside of software, I enjoy **photography** and visual storytelling.
+Outside of software, I enjoy **photography**, painting, and visual storytelling.  
+A small collection of my work: https://www.pexels.com/@k-s-aravinda-kashyap-86628820/highlights/
 
 
 ## Selected projects

@@ -59,10 +59,7 @@ I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence L
 
 ---
 
-## Contributions (Option A — keep or remove)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksaravindakashyap&theme=tokyo-night&hide_border=true" />
-</p>
+
 
 ---
 

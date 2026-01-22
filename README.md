@@ -64,18 +64,6 @@ Outside of software, I enjoy **photography**, painting, and visual storytelling.
 A small collection of my work: https://www.pexels.com/@k-s-aravinda-kashyap-86628820/highlights/
 
 
-## Selected projects
-
-| Project | Description |
-|---|---|
-| **DevInfra OpsHub — GitOps Control Panel** | GitOps-based control panel for automated preview deployments, CI/CD workflows, and production observability. |
-| **MediSync — IoT & ML Medication Adherence** | IoT + ML system for medication adherence using image recognition and sensors; published at **IEEE CSITSS 2023**. |
-| **Cross-Schema NL2SQL** | Natural-language-to-SQL pipeline designed to work across heterogeneous databases and schemas with schema-aware planning + feedback. |
-| **CareFlow AI** | Healthcare pipeline for ICD-10 prediction with modular inference services, caching, and reliability-focused deployment. |
-| **LRU Cache (C++20)** | Header-only, thread-safe LRU cache library designed for low-latency workloads with clean concurrency primitives. |
-
----
-
 ## Connect
 - Website: https://ksaravindakashyap.in  
 - LinkedIn: https://www.linkedin.com/in/ksaravindakashyap  

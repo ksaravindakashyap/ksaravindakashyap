@@ -16,7 +16,7 @@
 
 
 ## About
-I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, advised by <a href="[https://ksaravindakashyap.in](https://www.linkedin.com/in/penggao32 ">Dr. Peng Gao</a>, researching on agentic systems and agentic security. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at the Indian Space Research Organization, where I built real-time telemetry tooling for mission workflows. I’ve also worked as a Research fellow at IIT Delhi. ”
+I’m a software engineer and GRA at Virginia Tech’s Security & Intelligence Lab, advised by <a href="https://people.cs.vt.edu/penggao/">Dr. Peng Gao</a>, researching on agentic systems and agentic security. Before grad school, I spent two years at Shell building production backend and data platforms, and I interned at the Indian Space Research Organization, where I built real-time telemetry software for Medium Earth Orbit Search and Rescue Operation. I’ve also worked as a Research fellow at IIT Delhi. ”
 
 
 ## Experience
